@@ -1,0 +1,713 @@
+source_page,category,item_name,description,price
+home,description,,"Indulge yourself at The Hickory, the woody dine and wine.",
+home,description,,The Hickory Restaurant Presents Cocktail O'clock.,
+home,description,,Be sure to indulge yourself in wonderful Chef's Special recipes.,
+home,description,,"The Hickory tree: hard, sturdy, tough, steady growing and durable. The Hickory tree story tells tales of our forefathers using it for wagon wheels and hand tools due to its robustness. The Hickory tree was used for the construction of the early aircrafts and would tell a tale of competence, adventure and a spirit of fortitude.",
+home,description,,The Hickory restaurant and lounge represents all of the past tales of service and quality of the Hickory tree and brings it into fruition of our service to our clients.,
+home,description,,Welcome to the woody wine and dine.,
+food,Food,,Cheese Croquettes (V) 26 Mixed cheese cubes coated in breadcrumbs and lightly fried,
+food,Food,,Mixed cheese cubes coated in breadcrumbs and lightly fried,
+food,Food,,"Avocado Prawns 36 Base of lettuce, prawns and avocado in cocktail sauce",
+food,Food,,"Base of lettuce, prawns and avocado in cocktail sauce",
+food,Food,,"Chilli-garlic Prawns 36 Fresh, Zanzibar shrimp, pan-fried with chilli and garlic, finished with lemon and herbs on a bed of toasted bread",
+food,Food,,"Fresh, Zanzibar shrimp, pan-fried with chilli and garlic, finished with lemon and herbs on a bed of toasted bread",
+food,Food,,"Cashew Chicken 34 Juicy, aromatic cubes of stir-fried chicken fillet combined with roasted cashew nuts in a flavourful, brown-garlic sauce made from chicken stock and fresh mushrooms",
+food,Food,,"Juicy, aromatic cubes of stir-fried chicken fillet combined with roasted cashew nuts in a flavourful, brown-garlic sauce made from chicken stock and fresh mushrooms",
+food,Food,,"Barbeque Beef Meatballs 35 Well-seasoned, lean, ground beef with garlic, coriander and onions, finely baked and coated in a thick and sweet barbeque sauce, topped with fresh coriander and served with a garden-fresh salad",
+food,Food,,"Well-seasoned, lean, ground beef with garlic, coriander and onions, finely baked and coated in a thick and sweet barbeque sauce, topped with fresh coriander and served with a garden-fresh salad",
+food,Food,,"Pumpkin Soup (V) 25 Freshly roasted, spiced pumpkin soup combined with celery sticks, butter, garlic and coriander, served with deep-fried croutons",
+food,Food,,"Freshly roasted, spiced pumpkin soup combined with celery sticks, butter, garlic and coriander, served with deep-fried croutons",
+food,Food,,"Mongolian Beef Strips 34 Thin slices of flank steak of beef tossed in a Mongolian sauce and sweet peppers, served with a garden-fresh salad",
+food,Food,,"Thin slices of flank steak of beef tossed in a Mongolian sauce and sweet peppers, served with a garden-fresh salad",
+food,Food,,"Hickory Barbeque Chicken Wings 35 Buffalo chicken wings marinated in Asian condiments and finished with a spicy, barbeque glaze",
+food,Food,,"Buffalo chicken wings marinated in Asian condiments and finished with a spicy, barbeque glaze",
+food,Food,,Frittura Di Calamari 28 Deep-fried calamari served with tartar sauce,
+food,Food,,Deep-fried calamari served with tartar sauce,
+food,Food,,"Tempura Prawns 36 Deep-fried, butter-coated prawns with a honey -mayonnaise glaze",
+food,Food,,"Deep-fried, butter-coated prawns with a honey -mayonnaise glaze",
+food,Food,,"Bacon-wrapped Steak Bites 30 Well-seasoned cubes of beef fillet, wrapped in bacon and baked to perfection, served with a garden-fresh salad",
+food,Food,,"Well-seasoned cubes of beef fillet, wrapped in bacon and baked to perfection, served with a garden-fresh salad",
+food,Food,,"Fresh Soup of The Day 23 (Please, do ask your server)",
+food,Food,,"(Please, do ask your server)",
+food,Food,,"*Bisquick Chicken Tenders* 32 Crispy and tender chicken breast strips coated in breadcrumbs and deep-fried till golden-brown, served with sweet-chilli sauce and a garden-fresh salad",
+food,Food,,"Crispy and tender chicken breast strips coated in breadcrumbs and deep-fried till golden-brown, served with sweet-chilli sauce and a garden-fresh salad",
+food,Food,,"*Wingstop Garlic-parmesan Wings* 35 Scrumptious chicken wings, cooked to perfection with garlic and drizzled in Parmesan sauce",
+food,Food,,"Scrumptious chicken wings, cooked to perfection with garlic and drizzled in Parmesan sauce",
+food,Food,,"Hickory Organic Salad (V) 30 English cucumber, sweet bell peppers, black olives, tomatoes, lettuce, carrots and onions served with lemon and vinaigrette dressing",
+food,Food,,"English cucumber, sweet bell peppers, black olives, tomatoes, lettuce, carrots and onions served with lemon and vinaigrette dressing",
+food,Food,,"Greek Salad (V) 38 Lettuce, onions, cucumber, green peppers, tomatoes, black olives and feta cheese",
+food,Food,,"Lettuce, onions, cucumber, green peppers, tomatoes, black olives and feta cheese",
+food,Food,,"Chicken Caesar Salad 40 Fresh romaine lettuce, anchovies, croutons, grilled chicken breast and Caesar dressing",
+food,Food,,"Fresh romaine lettuce, anchovies, croutons, grilled chicken breast and Caesar dressing",
+food,Food,,"Mixed Sea Food Salad 49 Salmon, shrimp and calamari, sleeping on a bed of soft lettuce and topped with cherry tomatoes and cucumber",
+food,Food,,"Salmon, shrimp and calamari, sleeping on a bed of soft lettuce and topped with cherry tomatoes and cucumber",
+food,Food,,"Cobb Salad 44 Juicy, grilled chicken breast, avocado, tomatoes, eggs, bacon and cheddar cheese with shallot vinaigrette",
+food,Food,,"Juicy, grilled chicken breast, avocado, tomatoes, eggs, bacon and cheddar cheese with shallot vinaigrette",
+food,Food,,"Prawn, Mango and Avocado Salad 45 Fresh lettuce, tomatoes and mango topped with Zanzibar, herbed prawns, served with cocktail dressing",
+food,Food,,"Fresh lettuce, tomatoes and mango topped with Zanzibar, herbed prawns, served with cocktail dressing",
+food,Food,,"Thai Coconut Curry Combination of fresh cilantro leaves, basil leaves, coriander and coconut milk with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Combination of fresh cilantro leaves, basil leaves, coriander and coconut milk with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Thai Green Curry Combination of fresh cilantro leaves, lemon grass, galangal, chillies and kaffir lime with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Combination of fresh cilantro leaves, lemon grass, galangal, chillies and kaffir lime with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Thai Chilli-Basil Curry Combination of garlic, sweet peppers, onions and basil leaves, served with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Combination of garlic, sweet peppers, onions and basil leaves, served with a choice of either: • Steamed vegetables - 40 • Beef fillet - 47 • Chicken fillet - 49 • Tilapia fillet - 49 • Salmon fillet - 62",
+food,Food,,"Goat Curry 50 Boneless cubes of goat leg cooked in a traditional, curry sauce",
+food,Food,,"Boneless cubes of goat leg cooked in a traditional, curry sauce",
+food,Food,,(Served with steamed rice),
+food,Food,,"Classic Chicken Burger 49 Grilled, free-range chicken patty topped with lettuce, cheese, onions, tomatoes and mayonnaise",
+food,Food,,"Grilled, free-range chicken patty topped with lettuce, cheese, onions, tomatoes and mayonnaise",
+food,Food,,"Hickory Inspirational Beef Burger 49 Mouth-watering, well-spiced, grilled beef patty topped with lettuce, cheese, onions, tomatoes and mayonnaise",
+food,Food,,"Mouth-watering, well-spiced, grilled beef patty topped with lettuce, cheese, onions, tomatoes and mayonnaise",
+food,Food,,"Lake Victoria Fish Burger 47 English-style, crumbed tilapia fillet topped with slices of tomatoes, onion rings, lettuce and homemade Thousand Island dressing",
+food,Food,,"English-style, crumbed tilapia fillet topped with slices of tomatoes, onion rings, lettuce and homemade Thousand Island dressing",
+food,Food,,"Vegetable Burger (V) 43 Carefully selected, organic vegetables combined with French, caramelised onions",
+food,Food,,"Carefully selected, organic vegetables combined with French, caramelised onions",
+food,Food,,"Gourmet Italian Burger 55 A deliciously rich and flavourful blend of lean, ground beef and pork, grilled to perfection and topped with melted mozzarella cheese, fresh basil and our homemade, marinara sauce",
+food,Food,,"A deliciously rich and flavourful blend of lean, ground beef and pork, grilled to perfection and topped with melted mozzarella cheese, fresh basil and our homemade, marinara sauce",
+food,Food,,"Additions Bacon and free-range eggs - 8, Bacon - 6, Free-range eggs - 4",
+food,Food,,"Bacon and free-range eggs - 8, Bacon - 6, Free-range eggs - 4",
+food,Food,,(Served with crispy chips and a garden-fresh salad),
+food,Food,,"Beef Fillet Steak 53 (served with parsley potatoes) Succulent, richly flavoured, organic beef fillet steak, served on a bed of steamed vegetables with a choice of either: • Béarnaise sauce • Mushroom sauce • Peppercorn sauce • Arrabbiata sauce",
+food,Food,,"(served with parsley potatoes) Succulent, richly flavoured, organic beef fillet steak, served on a bed of steamed vegetables with a choice of either: • Béarnaise sauce • Mushroom sauce • Peppercorn sauce • Arrabbiata sauce",
+food,Food,,"T-Bone Steak (500 grams) 70 T-bone steak marinated with thyme and garlic, grilled to your tenderness, served with peppercorn sauce and potato wedges",
+food,Food,,"T-bone steak marinated with thyme and garlic, grilled to your tenderness, served with peppercorn sauce and potato wedges",
+food,Food,,"Beef Fillet Steak In Gorgonzola Sauce 56 Grilled beef fillet drizzled with creamy gorgonzola sauce and topped with crispy bacon plus grilled onion rings, served with lyonnaise potatoes",
+food,Food,,"Grilled beef fillet drizzled with creamy gorgonzola sauce and topped with crispy bacon plus grilled onion rings, served with lyonnaise potatoes",
+food,Food,,"Bacon-Wrapped Beef Filet 55 Tender beef fillet wrapped in bacon, stuffed with cheese and mushrooms, served with creamy spinach, mushroom sauce and lyonnaise potatoes",
+food,Food,,"Tender beef fillet wrapped in bacon, stuffed with cheese and mushrooms, served with creamy spinach, mushroom sauce and lyonnaise potatoes",
+food,Food,,"Philly Cheesesteak Pasta 50 Flavourful strips of beef fillet combined with fusilli pasta, bell peppers and gorgonzola cheese",
+food,Food,,"Flavourful strips of beef fillet combined with fusilli pasta, bell peppers and gorgonzola cheese",
+food,Food,,"Lasagne Al Forno 50 Traditional, silky pasta sheets coated in a luxurious mix of our classic, homemade ragú Bolognese and creamy béchamel sauce, topped with a combination of mozzarella cheese plus Grana Padano cheese and baked to perfection",
+food,Food,,"Traditional, silky pasta sheets coated in a luxurious mix of our classic, homemade ragú Bolognese and creamy béchamel sauce, topped with a combination of mozzarella cheese plus Grana Padano cheese and baked to perfection",
+food,Food,,"Homemade Spaghetti Bolognese 47 Spaghetti pasta tossed in a classic, beef, Bolognese sauce",
+food,Food,,"Spaghetti pasta tossed in a classic, beef, Bolognese sauce",
+food,Food,,"Spaghetti Alla Carbonara 52 Freshly boiled pasta tossed with crispy bacon and finished with cooking cream, egg yolks and Parmesan cheese, served with garlic bread and Parmesan cheese",
+food,Food,,"Freshly boiled pasta tossed with crispy bacon and finished with cooking cream, egg yolks and Parmesan cheese, served with garlic bread and Parmesan cheese",
+food,Food,,"Tuscan Chicken Pasta 50 Penne pasta tossed in a creamy spinach sauce with boneless, tender strips of chicken and sun-dried tomatoes, topped with Grana Padano cheese",
+food,Food,,"Penne pasta tossed in a creamy spinach sauce with boneless, tender strips of chicken and sun-dried tomatoes, topped with Grana Padano cheese",
+food,Food,,"Creamy Tomato Risotto With Meatballs 53 Italian rice tossed in a thick and creamy tomato sauce with delectably juicy, beef meatballs, topped with fresh Parmesan cheese",
+food,Food,,"Italian rice tossed in a thick and creamy tomato sauce with delectably juicy, beef meatballs, topped with fresh Parmesan cheese",
+food,Food,,"Linguine Chicken-Bacon Alfredo 51 Classic Italian pasta in a creamy garlic sauce combined with soft, tender chicken breast chunks, topped with crispy bacon and Grana Padano cheese",
+food,Food,,"Classic Italian pasta in a creamy garlic sauce combined with soft, tender chicken breast chunks, topped with crispy bacon and Grana Padano cheese",
+food,Food,,"Risotto Ai Fruitti Di Mare 53 Risotto rice tossed with delicious, Zanzibar shrimp and calamari",
+food,Food,,"Risotto rice tossed with delicious, Zanzibar shrimp and calamari",
+food,Food,,Risotto In Fresh Ugandan Vegetables (V) 49 Traditional Italian rice tossed with steamed vegetables,
+food,Food,,Traditional Italian rice tossed with steamed vegetables,
+food,Food,,Penne Arrabbiata (V) 45 Penne pasta cooked in spicy tomato sauce and topped with fresh basil and Parmesan cheese,
+food,Food,,Penne pasta cooked in spicy tomato sauce and topped with fresh basil and Parmesan cheese,
+food,Food,,"Lasagne Alla Verdure (V) 46 Fresh pasta layered with fresh, Ugandan vegetables, béchamel sauce, Parmesan cheese and baked to perfection",
+food,Food,,"Fresh pasta layered with fresh, Ugandan vegetables, béchamel sauce, Parmesan cheese and baked to perfection",
+food,Food,,"*Hickory Steak Pasta* 50 Delectable, tomato and basil linguine pasta topped with juicy, beef fillet steak and fresh Grana Padano cheese",
+food,Food,,"Delectable, tomato and basil linguine pasta topped with juicy, beef fillet steak and fresh Grana Padano cheese",
+food,Food,,"*Chicken and Coconut Tomato Pasta* 50 A delightful combination of penne pasta, grilled chicken breast strips, coconut cream and tomato sauce to create an absolute masterpiece",
+food,Food,,"A delightful combination of penne pasta, grilled chicken breast strips, coconut cream and tomato sauce to create an absolute masterpiece",
+food,Food,,"Sauces 10 Tuscan, mushroom, peppercorn, pesto, arrabbiata, peanut, coconut, barbeque, Dijon, Puttanesca, tartar, béarnaise, gorgonzola, tomato-basil, white wine-caper, Cioppino, tomato-cashew nut, chilli-lime",
+food,Food,,"Tuscan, mushroom, peppercorn, pesto, arrabbiata, peanut, coconut, barbeque, Dijon, Puttanesca, tartar, béarnaise, gorgonzola, tomato-basil, white wine-caper, Cioppino, tomato-cashew nut, chilli-lime",
+food,Food,,"Sides 12 Steamed vegetables, garden-fresh salad, crispy chips, steamed rice, vegetable rice, mashed potatoes, potato wedges, parsley potatoes, avocado, lyonnaise potatoes, masala chips, fried plantain, creamy spinach",
+food,Food,,"Steamed vegetables, garden-fresh salad, crispy chips, steamed rice, vegetable rice, mashed potatoes, potato wedges, parsley potatoes, avocado, lyonnaise potatoes, masala chips, fried plantain, creamy spinach",
+food,Food,,"Ugandan Organic Pork Chops 54 Grilled pork chops sleeping on a bed of fresh, creamy sukuma-wiki, served with mushroom sauce and fried plantain",
+food,Food,,"Grilled pork chops sleeping on a bed of fresh, creamy sukuma-wiki, served with mushroom sauce and fried plantain",
+food,Food,,"Pork Ribs 57 (served with fried plantain) Fresh, mouth-watering pork ribs, filled with spices and baked until golden-brown, served with a choice of either: • Barbeque sauce • Pesto sauce • Mushroom sauce",
+food,Food,,"(served with fried plantain) Fresh, mouth-watering pork ribs, filled with spices and baked until golden-brown, served with a choice of either: • Barbeque sauce • Pesto sauce • Mushroom sauce",
+food,Food,,"Baked Nile Perch Fillet 49 Lake Victoria, Nile perch fillet marinated and baked to perfection on a bed of creamy spinach, served with creamy mushroom sauce and mashed potatoes",
+food,Food,,"Lake Victoria, Nile perch fillet marinated and baked to perfection on a bed of creamy spinach, served with creamy mushroom sauce and mashed potatoes",
+food,Food,,"Tuscan Smothered Pork Chops 56 Irresistibly juicy pork chops bathed in our homemade, creamy Tuscan sauce, served with fried plantain",
+food,Food,,"Irresistibly juicy pork chops bathed in our homemade, creamy Tuscan sauce, served with fried plantain",
+food,Food,,"Hickory Special Grilled Chicken Breast Stuffed With Spinach 50 Well-marinated chicken breast wrapped in bacon and stuffed with spinach and mozzarella cheese, served with mushroom sauce plus a side of steamed vegetables and steamed rice",
+food,Food,,"Well-marinated chicken breast wrapped in bacon and stuffed with spinach and mozzarella cheese, served with mushroom sauce plus a side of steamed vegetables and steamed rice",
+food,Food,,Tilapia Florentine 53 (served with steamed rice) Grilled fillet of tilapia set on a bed of creamy spinach and served with a choice of either: •Tomato-cashew nut sauce • Mushroom sauce • Tomato-basil sauce • Coconut sauce,
+food,Food,,(served with steamed rice) Grilled fillet of tilapia set on a bed of creamy spinach and served with a choice of either: •Tomato-cashew nut sauce • Mushroom sauce • Tomato-basil sauce • Coconut sauce,
+food,Food,,"Grilled Half In-Bone Chicken 52 Rosemary, oregano and honey-marinated chicken, served with mushroom sauce, handpicked vegetables and crispy chips",
+food,Food,,"Rosemary, oregano and honey-marinated chicken, served with mushroom sauce, handpicked vegetables and crispy chips",
+food,Food,,"Grilled Chicken Breast 50 (served with vegetable rice) Succulent, skinless chicken breast served with a choice of either: •Puttanesca sauce •Mushroom sauce •Peanut sauce •Coconut Sauce •Cioppino sauce",
+food,Food,,"(served with vegetable rice) Succulent, skinless chicken breast served with a choice of either: •Puttanesca sauce •Mushroom sauce •Peanut sauce •Coconut Sauce •Cioppino sauce",
+food,Food,,"Creamy Chicken Cordon Bleu 52 Breaded, tender chicken breast stuffed with cooked ham and cheese, topped with Dijon sauce and served with lyonnaise potatoes",
+food,Food,,"Breaded, tender chicken breast stuffed with cooked ham and cheese, topped with Dijon sauce and served with lyonnaise potatoes",
+food,Food,,"Hickory Carnival Platter 62 Mixed grill of ¼ chicken, mini-beef fillet steak, chicken skewers and pork skewers all served with creamy mushroom sauce and potato wedges",
+food,Food,,"Mixed grill of ¼ chicken, mini-beef fillet steak, chicken skewers and pork skewers all served with creamy mushroom sauce and potato wedges",
+food,Food,,"Fillet Of Salmon 75 Grilled, Norwegian salmon fillet served with steamed vegetables and tomato-cashew nut sauce, served with vegetable rice",
+food,Food,,"Grilled, Norwegian salmon fillet served with steamed vegetables and tomato-cashew nut sauce, served with vegetable rice",
+food,Food,,"Jumbo Prawns 72 Grilled, jumbo prawns marinated with garlic, butter and lemon, served with a garden-fresh salad, tartar sauce and crispy chips",
+food,Food,,"Grilled, jumbo prawns marinated with garlic, butter and lemon, served with a garden-fresh salad, tartar sauce and crispy chips",
+food,Food,,Pan-Seared Tilapia On A Bed Of Pasta 54 Grilled tilapia fillet sleeping on a bed of linguine pasta in pesto sauce and served with steamed vegetables,
+food,Food,,Grilled tilapia fillet sleeping on a bed of linguine pasta in pesto sauce and served with steamed vegetables,
+food,Food,,Chilli-Lime Steak Fajita 56 Delectably juicy beef fillet marinated with a blend of Moroccan spices in chilli-lime sauce and served with fresh avocado slices and mashed potatoes,
+food,Food,,Delectably juicy beef fillet marinated with a blend of Moroccan spices in chilli-lime sauce and served with fresh avocado slices and mashed potatoes,
+food,Food,,"Creamy Tuscan Salmon Fillet 79 Pan-seared, Norwegian salmon fillet bathed in our homemade, creamy Tuscan sauce and served with risotto rice",
+food,Food,,"Pan-seared, Norwegian salmon fillet bathed in our homemade, creamy Tuscan sauce and served with risotto rice",
+food,Food,,"*Zippy Breaded Pork Chops* 56 Perfectly seasoned, boneless pork chops, coated in breadcrumbs and deep-fried till golden-brown, served with mushroom sauce and masala chips",
+food,Food,,"Perfectly seasoned, boneless pork chops, coated in breadcrumbs and deep-fried till golden-brown, served with mushroom sauce and masala chips",
+food,Food,,"*Bacon-Wrapped Tilapia* 55 Fresh, Lake Victoria tilapia fillet wrapped in bacon and grilled to perfection, served with our homemade, white wine-caper sauce and mashed potatoes",
+food,Food,,"Fresh, Lake Victoria tilapia fillet wrapped in bacon and grilled to perfection, served with our homemade, white wine-caper sauce and mashed potatoes",
+food,Food,,Organic Fruit Salad With Ice Cream 18,
+food,Food,,Cake of The Day Slice 22,
+food,Food,,Crème Brûlèe 25,
+food,Food,,New York Cheesecake 30,
+food,Food,,Chocolate Fondant 29,
+food,Food,,*Apple Crumble Tart* 30,
+food,Food,,2 Scoops of Ice Cream 15,
+food,Food,,Nutty Caramel and Chocolate Sundae 22,
+food,Food,,* New item * (V) Vegetarian,
+food,Food,,"In case of any food allergies, please inform your server. All prices are in '000s Uganda Shillings and are inclusive of all Government taxes.",
+drinks,Drinks,,Espresso Single 7,
+drinks,Drinks,,Espresso Double 10,
+drinks,Drinks,,Cappuccino Single 9,
+drinks,Drinks,,Cappuccino Double 12,
+drinks,Drinks,,Americano Single 8,
+drinks,Drinks,,Americano Double 12,
+drinks,Drinks,,Hot Chocolate 12,
+drinks,Drinks,,African Coffee 12,
+drinks,Drinks,,Black Tea Plain 8,
+drinks,Drinks,,Black Tea Spiced 8,
+drinks,Drinks,,African Tea Spiced 9,
+drinks,Drinks,,Imported Cider 12,
+drinks,Drinks,,Imported Beer 12,
+drinks,Drinks,,Sparkling Water 6,
+drinks,Drinks,,"Appletini 24 A sweet, refreshing martini drink in green apple flavour with generous measures of house vodka to give it a proper kick",
+drinks,Drinks,,"A sweet, refreshing martini drink in green apple flavour with generous measures of house vodka to give it a proper kick",
+drinks,Drinks,,Cosmopolitan 24 An incarnating cocktail dating back to 1934 comprising of an equal part of vodka and triple sec plus fresh cranberry juice for extra fruitiness,
+drinks,Drinks,,An incarnating cocktail dating back to 1934 comprising of an equal part of vodka and triple sec plus fresh cranberry juice for extra fruitiness,
+drinks,Drinks,,"Dry Martini 24 A traditional, aperitif cocktail best for your taste buds as you wait to be served a delicious meal, not to mention the olives",
+drinks,Drinks,,"A traditional, aperitif cocktail best for your taste buds as you wait to be served a delicious meal, not to mention the olives",
+drinks,Drinks,,"Hickopolitan 24 Adopted from the famous Cosmopolitan with a minty twist in taste, we bring you a signature cocktail to mix and mingle with",
+drinks,Drinks,,"Adopted from the famous Cosmopolitan with a minty twist in taste, we bring you a signature cocktail to mix and mingle with",
+drinks,Drinks,,Classic Margarita 26 A Mexican tequila thirst-quencher with triple sec and freshly squeezed lime juice,
+drinks,Drinks,,A Mexican tequila thirst-quencher with triple sec and freshly squeezed lime juice,
+drinks,Drinks,,Old Fashioned 35 A gentleman's drink that takes a little more time to craft but to a perfect mix of sweet Merlot and Bourbon whiskey for a perfect evening,
+drinks,Drinks,,A gentleman's drink that takes a little more time to craft but to a perfect mix of sweet Merlot and Bourbon whiskey for a perfect evening,
+drinks,Drinks,,"Absolut Paradise 24 An iconic, raspberry-based cocktail infused with fresh berries and perfectly complemented with expressive notes of rum plus fresh pineapple juice",
+drinks,Drinks,,"An iconic, raspberry-based cocktail infused with fresh berries and perfectly complemented with expressive notes of rum plus fresh pineapple juice",
+drinks,Drinks,,"Rose and Basil 24 The Hickory's crafty bartenders bring you a well-balanced, spicy and herbaceous gin-based cocktail with hints of rosemary and basil",
+drinks,Drinks,,"The Hickory's crafty bartenders bring you a well-balanced, spicy and herbaceous gin-based cocktail with hints of rosemary and basil",
+drinks,Drinks,,"Lady in Red 24 A Hickory perfection of London gin, bold and aromatic with a sensational strawberry and grapes finishing. You have definitely got to try this",
+drinks,Drinks,,"A Hickory perfection of London gin, bold and aromatic with a sensational strawberry and grapes finishing. You have definitely got to try this",
+drinks,Drinks,,Red/White Sangria 25 An iced punch comprising of an infusion of fruits and red/white wine,
+drinks,Drinks,,An iced punch comprising of an infusion of fruits and red/white wine,
+drinks,Drinks,,"Whiskey Sour 28 Famous for evening chills served sweet and sour with a nice, pulpy, pineapple texture to your palates",
+drinks,Drinks,,"Famous for evening chills served sweet and sour with a nice, pulpy, pineapple texture to your palates",
+drinks,Drinks,,Cookie Monster 23 Baileys Irish cream freakshake to a treat of cookies and chocolate,
+drinks,Drinks,,Baileys Irish cream freakshake to a treat of cookies and chocolate,
+drinks,Drinks,,"Mojito 22 A Cuban classic dating as far as the 1500's with a simple mixture of rum, mint, sugar and freshly squeezed lime juice",
+drinks,Drinks,,"A Cuban classic dating as far as the 1500's with a simple mixture of rum, mint, sugar and freshly squeezed lime juice",
+drinks,Drinks,,"Long Island Iced Tea 30 For the love of our customers, it is a no cheat zone since we go all the way with the spirits. For islanders, you are going to love it",
+drinks,Drinks,,"For the love of our customers, it is a no cheat zone since we go all the way with the spirits. For islanders, you are going to love it",
+drinks,Drinks,,"Frosty Deep Pool 32 Adopted from the famous bullfrog, dive into this boozy, energetic drink but be careful as you might go legless with this one since it is powered with five different spirits and red bull",
+drinks,Drinks,,"Adopted from the famous bullfrog, dive into this boozy, energetic drink but be careful as you might go legless with this one since it is powered with five different spirits and red bull",
+drinks,Drinks,,"Bulago Island Breeze 25 The pearl of Africa is well known for its beautiful tropical islands, which is why we have crafted this fruity punch out of Uganda waragi pineapple. Sit back and allow the island breeze to blow you away",
+drinks,Drinks,,"The pearl of Africa is well known for its beautiful tropical islands, which is why we have crafted this fruity punch out of Uganda waragi pineapple. Sit back and allow the island breeze to blow you away",
+drinks,Drinks,,*Watermelon Smash* 24 A summer cocktail that pairs vodka with whisky liqueur and is finished with fresh watermelon juice,
+drinks,Drinks,,A summer cocktail that pairs vodka with whisky liqueur and is finished with fresh watermelon juice,
+drinks,Drinks,,"Mai Tai 24 A highly flavoured, long, refreshing drink with touches of quality rum infused in tropical fruit juice and Italian liqueur",
+drinks,Drinks,,"A highly flavoured, long, refreshing drink with touches of quality rum infused in tropical fruit juice and Italian liqueur",
+drinks,Drinks,,"Queen Slayer 24 Amarula, chocolate sauce and spiced rum perfectly blended in equal portions will definitely get you glammed up",
+drinks,Drinks,,"Amarula, chocolate sauce and spiced rum perfectly blended in equal portions will definitely get you glammed up",
+drinks,Drinks,,*Jumping Jack* 24 Jack Daniel's honey whiskey spiced up with ginger ale to create the perfect refresher,
+drinks,Drinks,,Jack Daniel's honey whiskey spiced up with ginger ale to create the perfect refresher,
+drinks,Drinks,,Genie in a Goblet 24 A gin and tonic spiced up with mint liqueur and fresh mint. You have definitely got to try this,
+drinks,Drinks,,A gin and tonic spiced up with mint liqueur and fresh mint. You have definitely got to try this,
+drinks,Drinks,,Sexy Back 24 Get hammered with this passion and berries-infused beauty made out of skky vodka. She is sexy and strong too,
+drinks,Drinks,,Get hammered with this passion and berries-infused beauty made out of skky vodka. She is sexy and strong too,
+drinks,Drinks,,"Cherry Kisses 26 Enjoy this vodka-based, raspberry cocktail with love and affection",
+drinks,Drinks,,"Enjoy this vodka-based, raspberry cocktail with love and affection",
+drinks,Drinks,,"Negroni 25 Enjoy this refreshingly bitter classic made with vibrant Campari, sweet vermouth and gin",
+drinks,Drinks,,"Enjoy this refreshingly bitter classic made with vibrant Campari, sweet vermouth and gin",
+drinks,Drinks,,Bay Breeze 24 A nice blend of Uganda waragi coconut with a touch of Smirnoff vodka and strawberry purée,
+drinks,Drinks,,A nice blend of Uganda waragi coconut with a touch of Smirnoff vodka and strawberry purée,
+drinks,Drinks,,Amber Shades of Hickory 24 Forget the boring piña colada you know for this one combines fruit and booze like no other,
+drinks,Drinks,,Forget the boring piña colada you know for this one combines fruit and booze like no other,
+drinks,Drinks,,"Purple Dove 24 A fruity and flavourful cocktail with vivid colours comprising of vodka, blue curaçao liqueur, cointreau liqueur and strawberries",
+drinks,Drinks,,"A fruity and flavourful cocktail with vivid colours comprising of vodka, blue curaçao liqueur, cointreau liqueur and strawberries",
+drinks,Drinks,,"Hickory Ocean Breeze 70 Raise your eyes toward the denim horizon with this thirst-quenching mixture of coconut rum, blue curaçao liqueur and lemonade",
+drinks,Drinks,,"Raise your eyes toward the denim horizon with this thirst-quenching mixture of coconut rum, blue curaçao liqueur and lemonade",
+drinks,Drinks,,"Strawberry Basil Fizz 70 A rejuvenating combination of strawberries, basil and lemonade that is downright addictive since it is super light, refreshing and drinkable",
+drinks,Drinks,,"A rejuvenating combination of strawberries, basil and lemonade that is downright addictive since it is super light, refreshing and drinkable",
+drinks,Drinks,,Red/White Sangria 70 An iced punch comprising of an infusion of fruits and red/white wine,
+drinks,Drinks,,"Hickory Checkmate 70 Treat yourself to this melon-flavoured cocktail that combines vodka, rosé wine and an assortment of fresh fruits to create a refreshing, thirst-quenching beverage",
+drinks,Drinks,,"Treat yourself to this melon-flavoured cocktail that combines vodka, rosé wine and an assortment of fresh fruits to create a refreshing, thirst-quenching beverage",
+drinks,Drinks,,"Sweet Sun Rise 18 Elevate your mood with this fancy, tropical punch",
+drinks,Drinks,,"Elevate your mood with this fancy, tropical punch",
+drinks,Drinks,,"Virgin Colada 20 Enjoy a cool, coastal, coconut refresher with sweet, pineapple juice",
+drinks,Drinks,,"Enjoy a cool, coastal, coconut refresher with sweet, pineapple juice",
+drinks,Drinks,,"Virgin Mojito 20 For the love of our non-alcoholic thirst-quenchers, the Hickory brings you virgin mojitos",
+drinks,Drinks,,"For the love of our non-alcoholic thirst-quenchers, the Hickory brings you virgin mojitos",
+drinks,Drinks,,"Tropical Fruit Crash 18 Barista, s choice of tropical fruits blended with ice",
+drinks,Drinks,,"Barista, s choice of tropical fruits blended with ice",
+drinks,Drinks,,"Minty Pineapple 15 A sweet, cool and tropical delight comprising of fresh pineapple juice and mint leaves",
+drinks,Drinks,,"A sweet, cool and tropical delight comprising of fresh pineapple juice and mint leaves",
+drinks,Drinks,,"Green Detox 20 Detoxify with this nutrient-filled smoothie comprising of avocado, bananas, mangoes, celery and spinach with an addition of vanilla ice cream",
+drinks,Drinks,,"Detoxify with this nutrient-filled smoothie comprising of avocado, bananas, mangoes, celery and spinach with an addition of vanilla ice cream",
+drinks,Drinks,,Slippery Nipple 10,
+drinks,Drinks,,Beefeater Original/Pink Single - 6 / Double - 11 / Bottle - 150,
+drinks,Drinks,,Bombay Sapphire Single - 12 / Double - 22 / Bottle - 250,
+drinks,Drinks,,Gordon's Original/Pink Single - 6 / Double - 11 / Bottle - 150,
+drinks,Drinks,,Hendrick's Original Single - 19 / Double - 30 / Bottle - 450,
+drinks,Drinks,,Tanqueray London Dry Single - 8 / Double - 15 / Bottle - 250,
+drinks,Drinks,,Tanqueray No. 10 Single - 12 / Double - 20 / Bottle - 360,
+drinks,Drinks,,Uganda Waragi Single - 6 / Double - 10 / Bottle - 100 Original/Pineapple/Coconut/Lemon & Ginger,
+drinks,Drinks,,Original/Pineapple/Coconut/Lemon & Ginger,
+drinks,Drinks,,Malfy Originale/Limone/Rosa Single - 9 / Double - 16 / Bottle - 260,
+drinks,Drinks,,Tanqueray Flor de Sevilla Single - 8 / Double - 15 / Bottle - 250,
+drinks,Drinks,,Captain Morgan Spiced/Dark Single - 7 / Double - 12 / Bottle - 150,
+drinks,Drinks,,Havana Club Añejo 3 Años Single - 6 / Double - 10 / Bottle - 130,
+drinks,Drinks,,Malibu Original Single - 7 / Double - 12 / Bottle - 160,
+drinks,Drinks,,Barcadi White Single - 8 / Double - 12 / Bottle - 190,
+drinks,Drinks,,Absolut Single - 8 / Double - 11 / Bottle - 170 Absolut Original/Raspberri/Mango,
+drinks,Drinks,,Absolut Original/Raspberri/Mango,
+drinks,Drinks,,Cîroc Single - 12 / Double - 22 / Bottle - 420 Cîroc Original/French Vanilla/Green Apple,
+drinks,Drinks,,Cîroc Original/French Vanilla/Green Apple,
+drinks,Drinks,,Cîroc Pineapple Single - 11 / Double - 20 / Bottle - 350,
+drinks,Drinks,,Smirnoff No. 21 Classic Single - 6 / Double - 9 / Bottle - 150,
+drinks,Drinks,,Grey Goose Original Single - 14 / Double - 24 / Bottle - 460,
+drinks,Drinks,,Stolichnaya Original Single - 9 / Double - 14 / Bottle - 195,
+drinks,Drinks,,Skyy Passionfruit/Raspberry Single - 7 / Double - 10 / Bottle - 130,
+drinks,Drinks,,Courvoisier VS Single - 16 / Double - 29 / Bottle - 400,
+drinks,Drinks,,Courvoisier VSOP Single - 20 / Double - 35 / Bottle - 500,
+drinks,Drinks,,Hennessy VS Single - 22 / Double - 40 / Bottle - 550,
+drinks,Drinks,,Hennessy VSOP Single - 26 / Double - 48 / Bottle - 700,
+drinks,Drinks,,Martell VS Single - 16 / Double - 26 / Bottle - 360,
+drinks,Drinks,,Rémy Martin VSOP Single - 19 / Double - 32 / Bottle - 500,
+drinks,Drinks,,KWV 5 Years Single - 7 / Double - 13 / Bottle - 180,
+drinks,Drinks,,Martini Rosso/ Bianco Single - 7,
+drinks,Drinks,,Olmeca Silver/Gold/Dark Chocolate Single - 9 / Bottle - 250,
+drinks,Drinks,,Patrón Reposado/ XO Café Single - 16 / Bottle - 480,
+drinks,Drinks,,el Jimador Silver/Gold Single - 9 / Bottle - 240,
+drinks,Drinks,,Chivas Regal 12 Years Single - 12 / Double - 32 / Bottle - 350,
+drinks,Drinks,,Chivas Regal 18 Years Single - 19 / Double - 36 / Bottle - 600,
+drinks,Drinks,,Johnnie Walker Black Label 12 Years Single - 12 / Double - 20 / Bottle - 340,
+drinks,Drinks,,Johnnie Walker Blue Label Single - 60 / Double - 100 / Bottle - 1500,
+drinks,Drinks,,Johnnie Walker Double Black Single - 14 / Double - 24 / Bottle - 390,
+drinks,Drinks,,Johnnie Walker Gold Label Reserve Single - 20 / Double - 37 / Bottle - 480,
+drinks,Drinks,,Johnnie Walker Green Label Single - 20 / Double - 38 / Bottle - 490,
+drinks,Drinks,,Johnnie Walker Aged 18 Years Single - 26 / Double - 50 / Bottle - 760,
+drinks,Drinks,,Aberlour 12 Years Single - 14 / Double - 24 / Bottle - 320,
+drinks,Drinks,,Clynelish 14 Year Old Single - 15 / Double - 28 / Bottle - 360,
+drinks,Drinks,,Glenfiddich 12 Years Single - 20 / Double - 38 / Bottle - 450,
+drinks,Drinks,,Glenfiddich 15 Years Single - 26 / Double - 46 / Bottle - 660,
+drinks,Drinks,,Glenfiddich 18 Years Single - 30 / Double - 54 / Bottle - 800,
+drinks,Drinks,,Glenfiddich 21 Years Single - 80 / Double - 150 / Bottle - 1800,
+drinks,Drinks,,Glenlivet 15 Years Single - 28 / Double - 52 / Bottle - 700,
+drinks,Drinks,,Glenlivet Founders Reserve Single - 15 / Double - 28 / Bottle - 480,
+drinks,Drinks,,Glenmorangie Original Single - 19 / Double - 34 / Bottle - 580,
+drinks,Drinks,,Singleton 12 Years Single - 14 / Double - 26 / Bottle - 340,
+drinks,Drinks,,Talisker 12 Year Old Single - 15 / Double - 26 / Bottle - 360,
+drinks,Drinks,,Macallan 12 Years Single - 24 / Double - 46 / Bottle - 600,
+drinks,Drinks,,Macallan 15 Years Single - 36 / Double - 70 / Bottle - 900,
+drinks,Drinks,,Macallan 18 Years Single - 68 / Double - 130 / Bottle - 1900,
+drinks,Drinks,,Jack Daniel's Old No.7 Single - 12 / Double - 22 / Bottle - 350,
+drinks,Drinks,,Jim Beam Single - 9 / Double - 15 / Bottle - 240,
+drinks,Drinks,,Jameson Single - 10 / Double - 18 / Bottle - 250,
+drinks,Drinks,,Jameson Black Barrel Single - 12 / Double - 20 / Bottle - 310,
+drinks,Drinks,,Amarula Single - 9,
+drinks,Drinks,,Baileys Irish Cream Single - 10,
+drinks,Drinks,,Cointreau Single - 10,
+drinks,Drinks,,Disaronno Single - 9,
+drinks,Drinks,,Tango Apple Sour Single - 10,
+drinks,Drinks,,Jägermeister Single - 10,
+drinks,Drinks,,Kahlúa Single - 8,
+drinks,Drinks,,Aperol Single - 9,
+drinks,Drinks,,Southern Comfort Original Single - 8,
+drinks,Drinks,,Drambuie Single - 9,
+drinks,Drinks,,"In case of any drinks allergies, please inform your server. All prices are in '000s Uganda Shillings and include Government taxes.",
+wines,Wines,,Rooiberg Winery Chardonnay 20,
+wines,Wines,,KWV Classic Collection Sauvignon Blanc 20,
+wines,Wines,,Rooiberg Winery Blanc Natural Sweet 20,
+wines,Wines,,Four Cousins Natural Sweet White 20,
+wines,Wines,,Rooiberg Winery Cabernet Sauvignon 20,
+wines,Wines,,KWV Classic Collection Shiraz 20,
+wines,Wines,,Rooiberg Winery Red Natural Sweet 20,
+wines,Wines,,Four Cousins Natural Sweet Red 20,
+wines,Wines,,KWV Classic Collection Rosé 20,
+wines,Wines,,"Rooiberg Winery Chardonnay (South Africa) 90 Vibrant and elegant with French, oak leaves. It reveals pear-drop aromas with fresh, apple and citrus notes plus lingering, buttery tones on the aftertaste",
+wines,Wines,,"Vibrant and elegant with French, oak leaves. It reveals pear-drop aromas with fresh, apple and citrus notes plus lingering, buttery tones on the aftertaste",
+wines,Wines,,Herxheim Am Berg Sauvignon Blanc Trocken (Germany) 135 Light-yellow with aromas of gooseberries and green peppers. Its lively acidity and a beautiful finish give it an elegance that comes to life with the aroma of cassis and pineapple,
+wines,Wines,,Light-yellow with aromas of gooseberries and green peppers. Its lively acidity and a beautiful finish give it an elegance that comes to life with the aroma of cassis and pineapple,
+wines,Wines,,Rooiberg Winery Blanc Natural Sweet (South Africa) 90 Elegant and full-bodied revealing tropical fruit and attractive whiffs of muscat flavours,
+wines,Wines,,Elegant and full-bodied revealing tropical fruit and attractive whiffs of muscat flavours,
+wines,Wines,,"Hill & Dale Sauvignon Blanc (South Africa) 105 Pale-yellow with greenish reflections enveloped by notes of freshly cut grass, gooseberry, melon and green pepper. Vibrant and soft with good acidity",
+wines,Wines,,"Pale-yellow with greenish reflections enveloped by notes of freshly cut grass, gooseberry, melon and green pepper. Vibrant and soft with good acidity",
+wines,Wines,,Herxheim Am Berg Secco Weiss (Germany) 140 Fresh with sparkling acidity and fine aromas of local fruit,
+wines,Wines,,Fresh with sparkling acidity and fine aromas of local fruit,
+wines,Wines,,KWV Classic Collection Sauvignon Blanc (South Africa) 90 Elegant and refreshing with citrus and floral aromas. The palate is soft and juicy with hints of lime and chalky minerality,
+wines,Wines,,Elegant and refreshing with citrus and floral aromas. The palate is soft and juicy with hints of lime and chalky minerality,
+wines,Wines,,"Zonin Pinot Grigio Friuli Aquileia (Italy) 105 Delicately fruity, relatively full and ample bouquet with an ensemble of aromas of great finesse. Lightly dry yet extremely fresh. Its pleasantly balanced and elegant structure makes it unusually refined",
+wines,Wines,,"Delicately fruity, relatively full and ample bouquet with an ensemble of aromas of great finesse. Lightly dry yet extremely fresh. Its pleasantly balanced and elegant structure makes it unusually refined",
+wines,Wines,,"Calvet Varietals Sauvignon Blanc (France) 100 An elegant, bright-yellow appearance with aromas of tropical lemon and grapefruit. The palate is excellently balanced with citrusy flavours",
+wines,Wines,,"An elegant, bright-yellow appearance with aromas of tropical lemon and grapefruit. The palate is excellently balanced with citrusy flavours",
+wines,Wines,,"Nederburg Chardonnay (South Africa) 105 Delightful aromas of lime, melon and vanilla opened onto a fresh, creamy palate with a touch of citrus and apricot. Pairs well with chicken or goat cheese",
+wines,Wines,,"Delightful aromas of lime, melon and vanilla opened onto a fresh, creamy palate with a touch of citrus and apricot. Pairs well with chicken or goat cheese",
+wines,Wines,,"Four Cousins Natural Sweet White (South Africa) 150 Fragrant and sunshine-coloured with a gentle, honeysuckle perfume. Flavours of luscious apricots, nougat and rich, tropical fruit salad are followed by a soft, lingering finish",
+wines,Wines,,"Fragrant and sunshine-coloured with a gentle, honeysuckle perfume. Flavours of luscious apricots, nougat and rich, tropical fruit salad are followed by a soft, lingering finish",
+wines,Wines,,"Zonin 20 Ventiterre Moscato (Italy) 120 A blend of floral, peach, grape and citrus aromas that are dry with a soft spritz",
+wines,Wines,,"A blend of floral, peach, grape and citrus aromas that are dry with a soft spritz",
+wines,Wines,,"Jacob's Creek Classic Chardonnay (Australia) 110 Medium-bodied with notes of melon, peach and citrus supported with toasted oak and textural creaminess",
+wines,Wines,,"Medium-bodied with notes of melon, peach and citrus supported with toasted oak and textural creaminess",
+wines,Wines,,"Landskroon Chardonnay (South Africa) 160 Packed with rich, lemony fruit and tropical flavours",
+wines,Wines,,"Packed with rich, lemony fruit and tropical flavours",
+wines,Wines,,"Simonsig Sunbird Sauvignon Blanc (South Africa) 120 A bright, clear colour with intense, tropical aromas. A flavourful palate showcases an array of tropical fruits, passion fruit and refreshing hints of lime. Excellent structure and depth of flavour is complimented by fresh acidity and a lingering aftertaste",
+wines,Wines,,"A bright, clear colour with intense, tropical aromas. A flavourful palate showcases an array of tropical fruits, passion fruit and refreshing hints of lime. Excellent structure and depth of flavour is complimented by fresh acidity and a lingering aftertaste",
+wines,Wines,,"Zonin Prosecco Cuvée 1821 (Italy) 140 Bright, pale-yellow with fruity aromas of wisteria flowers and Rennet apples. Very well-balanced and appealing with a delicate, almond note",
+wines,Wines,,"Bright, pale-yellow with fruity aromas of wisteria flowers and Rennet apples. Very well-balanced and appealing with a delicate, almond note",
+wines,Wines,,JP. Chenet Original Blanc De Blancs Brut/Ice Edition Mousseux Rosé (France) 110 Lovely aromas of white flowers and tropical fruit are complemented by notes of almonds and hazelnuts. Creamy and smooth on the attack; this wine has a fine yet supple texture,
+wines,Wines,,Lovely aromas of white flowers and tropical fruit are complemented by notes of almonds and hazelnuts. Creamy and smooth on the attack; this wine has a fine yet supple texture,
+wines,Wines,,"Signore Giuseppe Prosecco Rosé Extra Dry (Italy) 130 Pale-pink and shiny reflections with floral and fruity aromas of red berries. On the palate, white flowers and fresh fruits reveal balance, freshness and good volume",
+wines,Wines,,"Pale-pink and shiny reflections with floral and fruity aromas of red berries. On the palate, white flowers and fresh fruits reveal balance, freshness and good volume",
+wines,Wines,,"Duchessa Lia Fragolino/Fragolino Blanc/Fragolino Rosé (Italy) 110 An incredibly fruity taste on the palate with a light, velvety texture and an intense, strawberry aroma",
+wines,Wines,,"An incredibly fruity taste on the palate with a light, velvety texture and an intense, strawberry aroma",
+wines,Wines,,Luc Belaire Luxe (Rare)/Rosé (Rare) (France) 250 Refreshing and effortlessly elegant with aromas of fresh fruit. A rich and crisp taste with a lengthy finish,
+wines,Wines,,Refreshing and effortlessly elegant with aromas of fresh fruit. A rich and crisp taste with a lengthy finish,
+wines,Wines,,Jacob's Creek Brut Cuvée Chardonnay - Pinot Noir Sparkling (Australia) 120 Light and elegant; the palate highlights lemon and citrus fruit with a hint of biscuit finishing with a delicate and refreshing acid,
+wines,Wines,,Light and elegant; the palate highlights lemon and citrus fruit with a hint of biscuit finishing with a delicate and refreshing acid,
+wines,Wines,,"Calvet Celebration Brut Rosé (France) 130 Fine and elegant with notes of red berries and strawberry. Creamy palate, dominant, strawberry milk notes, floral notes on the finish with nice length",
+wines,Wines,,"Fine and elegant with notes of red berries and strawberry. Creamy palate, dominant, strawberry milk notes, floral notes on the finish with nice length",
+wines,Wines,,Moët and Chandon Imperial Brut Champagne (France) 480,
+wines,Wines,,Veuve Clicquot Brut (Carte Jaune) Champagne (France) 580,
+wines,Wines,,Dom Pérignon Brut Champagne (France) 1500,
+wines,Wines,,"Alvi's Drift Merlot (South Africa) 130 A soft, juicy, generous, tannic taste with notes of ripe cherries and plums. Noble shades of chocolate and oak with a balanced acidity and a long, tart aftertaste",
+wines,Wines,,"A soft, juicy, generous, tannic taste with notes of ripe cherries and plums. Noble shades of chocolate and oak with a balanced acidity and a long, tart aftertaste",
+wines,Wines,,"Eikendal Cabernet Sauvignon (South Africa) 370 Whiffs of ripe berries, dark chocolate, spices and pencil shavings greet you on the nose. On the palate, silky tannins await, complemented by fruity, delicate oak flavours with a lingering aftertaste",
+wines,Wines,,"Whiffs of ripe berries, dark chocolate, spices and pencil shavings greet you on the nose. On the palate, silky tannins await, complemented by fruity, delicate oak flavours with a lingering aftertaste",
+wines,Wines,,Rooiberg Winery Cabernet Sauvignon (South Africa) 90 A medium-bodied wine offering a beautiful depth of character which will ensure successful bottle-ageing. Its colour is that of deep garnet and the nose full of berry-like flavours,
+wines,Wines,,A medium-bodied wine offering a beautiful depth of character which will ensure successful bottle-ageing. Its colour is that of deep garnet and the nose full of berry-like flavours,
+wines,Wines,,"Rooiberg Winery Red Natural Sweet (South Africa) 90 A delicious wine to sip on its own or to serve with strongly flavoured, wellmatured cheese",
+wines,Wines,,"A delicious wine to sip on its own or to serve with strongly flavoured, wellmatured cheese",
+wines,Wines,,"KWV Classic Collection Shiraz (South Africa) 100 A vibrant wine showing prominent fruit sweetness with aromas of mulberries, basil leaves and white pepper. Undertones of spearmint and vanilla are accompanied by a juicy midpalate with a well-integrated tannin structure",
+wines,Wines,,"A vibrant wine showing prominent fruit sweetness with aromas of mulberries, basil leaves and white pepper. Undertones of spearmint and vanilla are accompanied by a juicy midpalate with a well-integrated tannin structure",
+wines,Wines,,"Four Cousins Natural Sweet Red (South Africa) 150 A fragrant, ruby-red wine with soft, rose petal perfume. A soft, lingering finish follows flavours of ripe plums, strawberries and exotic spices",
+wines,Wines,,"A fragrant, ruby-red wine with soft, rose petal perfume. A soft, lingering finish follows flavours of ripe plums, strawberries and exotic spices",
+wines,Wines,,"Castello Di Albola Chianti Classico (Italy) 210 A fresh and refined Chianti classic with dried cherries, lemon rind and other citrus fruits; medium-bodied with a clean and bright finish",
+wines,Wines,,"A fresh and refined Chianti classic with dried cherries, lemon rind and other citrus fruits; medium-bodied with a clean and bright finish",
+wines,Wines,,"Zonin 20 Ventiterre Chianti (Italy) 110 A scent of cherries, violets and hints of spice. Flavour-fresh with a good body and agreeable tannins",
+wines,Wines,,"A scent of cherries, violets and hints of spice. Flavour-fresh with a good body and agreeable tannins",
+wines,Wines,,"Caro (Catena and Rothschild) Aruma Malbec (Argentina) 170 A deep, red colour with hints of violet and aromas of plump and red fruit. A fresh and elegant palate with a remarkable balance between tannins, acidity and alcohol. Long and delicate finish",
+wines,Wines,,"A deep, red colour with hints of violet and aromas of plump and red fruit. A fresh and elegant palate with a remarkable balance between tannins, acidity and alcohol. Long and delicate finish",
+wines,Wines,,"Nederburg The Winemaster's Pinotage (South Africa) 130 Generous-bodied, juicy and soft-textured with lovely notes of ripe plums and spice. Enjoyed with lamb or roast chicken or chocolate as an after-dinner treat",
+wines,Wines,,"Generous-bodied, juicy and soft-textured with lovely notes of ripe plums and spice. Enjoyed with lamb or roast chicken or chocolate as an after-dinner treat",
+wines,Wines,,"Jacob's Creek Double Barrel Shiraz (Australia) 210 The intense nose offers cedar, vanilla bean and buttered toast with notes of pecan nut. An attractive, savoury palate of blackberry and ripe plum with a lovely, soft finish",
+wines,Wines,,"The intense nose offers cedar, vanilla bean and buttered toast with notes of pecan nut. An attractive, savoury palate of blackberry and ripe plum with a lovely, soft finish",
+wines,Wines,,"Calvet Varietals Cabernet Sauvignon (France) 105 An intense, red to purple appearance with notes of spices that delights us with aromas of blackcurrants and green peppers. A fine, tannic body with notes of liquorice, persistence and a long taste",
+wines,Wines,,"An intense, red to purple appearance with notes of spices that delights us with aromas of blackcurrants and green peppers. A fine, tannic body with notes of liquorice, persistence and a long taste",
+wines,Wines,,"Domaine De Sainte Cécile L'opus Cabernet Sauvignon (France) 150 Hints of blackberries, redcurrant, liquorice and laurel in the scent lead to superb, full flavours with notes of pepper, bay leaf and black fruit",
+wines,Wines,,"Hints of blackberries, redcurrant, liquorice and laurel in the scent lead to superb, full flavours with notes of pepper, bay leaf and black fruit",
+wines,Wines,,"Kumala Reserve Malbec (South Africa) 110 Succulent and plummy, smooth-textured with ripe blackberry flavours and an elegant finish",
+wines,Wines,,"Succulent and plummy, smooth-textured with ripe blackberry flavours and an elegant finish",
+wines,Wines,,"Barton & Guestier Réserve Merlot (France) 100 A soft but medium-bodied, Old World Merlot that showcases a round palate with a long, smooth and refined finish",
+wines,Wines,,"A soft but medium-bodied, Old World Merlot that showcases a round palate with a long, smooth and refined finish",
+wines,Wines,,"Perdeberg The Dry Land Collection Tenacious Shiraz (South Africa) 140 The nose is spicy while the palate shows tones of mulberries, cherries and fynbos. The structure is broad with delicate tannins and a fresh aftermath",
+wines,Wines,,"The nose is spicy while the palate shows tones of mulberries, cherries and fynbos. The structure is broad with delicate tannins and a fresh aftermath",
+wines,Wines,,"Penfolds Koonunga Hill Cabernet Sauvignon (Australia) 200 A bold, full-bodied wine displaying lovely aromatics, excellent structure and great length",
+wines,Wines,,"A bold, full-bodied wine displaying lovely aromatics, excellent structure and great length",
+wines,Wines,,"KWV Classic Collection Rosé (South Africa) 90 Fruit aromas of strawberries, rose petals and candy floss with hints of violets. The palate is elegant and fresh with an ester character and soft acidity",
+wines,Wines,,"Fruit aromas of strawberries, rose petals and candy floss with hints of violets. The palate is elegant and fresh with an ester character and soft acidity",
+wines,Wines,,"Nederburg Rosé (South Africa) 90 Sweet and delicate aromas of ripe cherries, strawberries and candy floss with a hint of spice and a refreshing flavour on the palate",
+wines,Wines,,"Sweet and delicate aromas of ripe cherries, strawberries and candy floss with a hint of spice and a refreshing flavour on the palate",
+wines,Wines,,"Exhib' Cap D'agde Rosé (France) 90 Pale-pink colour. Intense, fresh, beautiful notes of pink grapefruit. Fresh peach and citrus with an elegant, crisp, dry palate; packaged in a special, exhibitionist bottle",
+wines,Wines,,"Pale-pink colour. Intense, fresh, beautiful notes of pink grapefruit. Fresh peach and citrus with an elegant, crisp, dry palate; packaged in a special, exhibitionist bottle",
+cake,Cake,,"Carrot Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Chocolate Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Coconut Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Fruit Cake 1KG - 140, 1.5KG - 180, 2KG - 220",
+cake,Cake,,"Lemon Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Strawberry Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Vanilla Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Vanilla Cheesecake 1KG - 160, 1.5KG - 220, 2KG - 260",
+cake,Cake,,"Black Forest Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"White Forest Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"Chocolate Fudge Cake 1KG - 140, 1.5KG - 180, 2KG - 220",
+cake,Cake,,"Red Velvet Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+cake,Cake,,"White Chocolate Cake 1KG - 120, 1.5KG - 170, 2KG - 200",
+events,Events,,The Hickory Restaurant Presents Cocktail O'clock. Serving up cocktails daily. For reservations call +256 758 809 187. ...,
+events,Events,,The Hickory Restaurant Presents the Monthly Chef's Specials. We spend hours creating wonderful new recipes. The best ones become our monthly specials. Be sure to...,
+events,Events,,The Hickory Restaurant Presents Cocktail O'clock. Serving up signature cocktails daily. For reservations call +256 758 809 187. ...,
+contact,location_info,,"Plot 11 Ngabo Road, Kololo, Kampala, Uganda",
+contact,location_info,,+256 758 809 187,
+contact,location_info,,info@thehickorykampala.com,
+contact,location_info,,www.thehickorykampala.com,
+about,restaurant_description,The Hickory Kampala,The Hickory is an upscale restaurant and lounge located in Kololo Kampala Uganda known as The Woody Wine and Dine,
+about,restaurant_description,The Hickory Kampala,The Hickory draws inspiration from the hickory tree symbolizing strength competence adventure and a spirit of fortitude,
+about,restaurant_description,The Hickory Kampala,The hickory tree was historically used in wagon wheels tool handles and early aircraft construction representing durability and quality,
+about,restaurant_description,The Hickory Kampala,The Hickory gained rapid popularity following its opening challenging established high-end establishments in Kampala,
+about,restaurant_description,The Hickory Kampala,The restaurant offers international European fusion cuisine with signature dishes and an extensive cocktail and wine selection,
+about,restaurant_description,The Hickory Kampala,The Hickory features contemporary stylish ambiance with both indoor and garden seating areas,
+about,restaurant_description,The Hickory Kampala,The restaurant provides free Wi-Fi outdoor seating takeaway services and disabled access,
+about,restaurant_description,The Hickory Kampala,The Hickory participates in Kampala Restaurant Week with special menus and incentives,
+about,restaurant_description,The Hickory Kampala,The Hickory is known for its charming ambiance and garden-like setting particularly beautiful at night,
+about,restaurant_description,The Hickory Kampala,Located at Plot 11 Ngabo Road Kololo Kampala Uganda the restaurant operates from 8am to 11pm everyday,
+about,restaurant_description,The Hickory Kampala,The Hickory offers reservation services event hosting and catering for special occasions,
+about,restaurant_description,The Hickory Kampala,The restaurant features a Monthly Chefs Specials program with rotating specialty dishes,
+about,restaurant_description,The Hickory Kampala,Cocktail Oclock is a signature experience at The Hickory featuring their handcrafted cocktail menu,
+about,restaurant_description,The Hickory Kampala,The Hickory maintains an active social media presence on Facebook Twitter Instagram and TripAdvisor,
+about,restaurant_description,The Hickory Kampala,Contact The Hickory at phone number +256 758 809 187 or email info@thehickorykampala.com,
+food,Starters and Soups,Cheese Croquettes,Mixed cheese cubes coated in breadcrumbs and lightly fried served as a vegetarian starter,26
+food,Starters and Soups,Avocado Prawns,Base of lettuce prawns and avocado in cocktail sauce a fresh seafood appetizer,36
+food,Starters and Soups,Chilli-garlic Prawns,Fresh shrimp pan-fried with chilli and garlic finished with lemon and herbs on toasted bread,36
+food,Starters and Soups,Cashew Chicken,Stir-fried chicken with roasted cashew nuts in brown-garlic sauce an Asian-inspired starter,34
+food,Starters and Soups,Barbeque Beef Meatballs,Ground beef with garlic coriander and onions baked and coated in barbeque sauce,35
+food,Starters and Soups,Pumpkin Soup,Roasted spiced pumpkin soup with celery butter garlic and coriander a vegetarian option,25
+food,Starters and Soups,Mongolian Beef Strips,Flank steak tossed in Mongolian sauce and sweet peppers an Asian-inspired appetizer,34
+food,Starters and Soups,Hickory Barbeque Chicken Wings,Buffalo chicken wings with Asian condiments and spicy barbeque glaze,35
+food,Starters and Soups,Frittura Di Calamari,Deep-fried calamari served with tartar sauce an Italian-style seafood starter,28
+food,Starters and Soups,Tempura Prawns,Deep-fried butter-coated prawns with honey-mayonnaise glaze a Japanese-inspired dish,36
+food,Starters and Soups,Bacon-wrapped Steak Bites,Beef fillet cubes wrapped in bacon baked and served with salad,30
+food,Starters and Soups,Fresh Soup of The Day,Daily freshly prepared soup ask server for details,23
+food,Starters and Soups,Bisquick Chicken Tenders,Crispy chicken breast strips coated in breadcrumbs served with sweet-chilli sauce,32
+food,Starters and Soups,Wingstop Garlic-parmesan Wings,Chicken wings with garlic and Parmesan sauce a savoury appetizer,35
+food,Salads,Hickory Organic Salad,Cucumber bell peppers olives tomatoes lettuce carrots onions with lemon and vinaigrette a vegetarian option,30
+food,Salads,Greek Salad,Lettuce onions cucumber peppers tomatoes olives and feta cheese a classic Mediterranean vegetarian salad,38
+food,Salads,Chicken Caesar Salad,Romaine lettuce anchovies croutons grilled chicken breast and Caesar dressing,40
+food,Salads,Mixed Sea Food Salad,Salmon shrimp and calamari on lettuce with cherry tomatoes and cucumber,49
+food,Salads,Cobb Salad,Grilled chicken breast avocado tomatoes eggs bacon cheddar cheese with shallot vinaigrette,44
+food,Salads,Prawn Mango and Avocado Salad,Fresh lettuce tomatoes mango topped with herbed prawns and cocktail dressing,45
+food,Curries,Thai Coconut Curry Vegetables,Fresh cilantro basil coriander and coconut milk with steamed vegetables served with rice vegetarian,40
+food,Curries,Thai Coconut Curry Beef,Fresh cilantro basil coriander and coconut milk with beef fillet served with steamed rice,47
+food,Curries,Thai Coconut Curry Chicken,Fresh cilantro basil coriander and coconut milk with chicken fillet served with steamed rice,49
+food,Curries,Thai Coconut Curry Tilapia,Fresh cilantro basil coriander and coconut milk with tilapia fillet served with steamed rice,49
+food,Curries,Thai Coconut Curry Salmon,Fresh cilantro basil coriander and coconut milk with salmon fillet served with steamed rice,62
+food,Curries,Thai Green Curry Vegetables,Cilantro lemon grass galangal chillies and kaffir lime with steamed vegetables vegetarian,40
+food,Curries,Thai Green Curry Beef,Cilantro lemon grass galangal chillies and kaffir lime with beef fillet served with rice,47
+food,Curries,Thai Green Curry Chicken,Cilantro lemon grass galangal chillies and kaffir lime with chicken fillet served with rice,49
+food,Curries,Thai Green Curry Tilapia,Cilantro lemon grass galangal chillies and kaffir lime with tilapia fillet served with rice,49
+food,Curries,Thai Green Curry Salmon,Cilantro lemon grass galangal chillies and kaffir lime with salmon fillet served with rice,62
+food,Curries,Thai Chilli-Basil Curry Vegetables,Garlic sweet peppers onions and basil with steamed vegetables vegetarian,40
+food,Curries,Thai Chilli-Basil Curry Beef,Garlic sweet peppers onions and basil with beef fillet served with steamed rice,47
+food,Curries,Thai Chilli-Basil Curry Chicken,Garlic sweet peppers onions and basil with chicken fillet served with steamed rice,49
+food,Curries,Goat Curry,Boneless goat leg cubes in traditional curry sauce served with steamed rice a local favourite,50
+food,Burgers,Classic Chicken Burger,Grilled free-range chicken patty with lettuce cheese onions tomatoes mayonnaise served with chips and salad,49
+food,Burgers,Hickory Inspirational Beef Burger,Grilled beef patty with lettuce cheese onions tomatoes mayonnaise served with crispy chips and garden salad,49
+food,Burgers,Lake Victoria Fish Burger,Crumbed tilapia fillet with tomatoes onion rings lettuce and Thousand Island dressing served with chips,47
+food,Burgers,Vegetable Burger,Organic vegetables with caramelised French onions a vegetarian burger served with chips and salad,43
+food,Burgers,Gourmet Italian Burger,Ground beef and pork blend with mozzarella cheese basil and marinara sauce served with chips,55
+food,Butchers Choice,Beef Fillet Steak,Organic beef fillet with steamed vegetables and choice of Bearnaise mushroom peppercorn or Arrabbiata sauce with parsley potatoes,53
+food,Butchers Choice,T-Bone Steak,500g marinated with thyme and garlic grilled and served with peppercorn sauce and potato wedges,70
+food,Butchers Choice,Beef Fillet Steak In Gorgonzola Sauce,Grilled beef fillet with creamy gorgonzola sauce crispy bacon and grilled onion rings with lyonnaise potatoes,56
+food,Butchers Choice,Bacon-Wrapped Beef Filet,Beef fillet wrapped in bacon stuffed with cheese and mushrooms served with creamy spinach mushroom sauce and lyonnaise potatoes,55
+food,Pasta and Risotto,Philly Cheesesteak Pasta,Beef fillet strips with fusilli pasta bell peppers and gorgonzola cheese,50
+food,Pasta and Risotto,Lasagne Al Forno,Traditional silky pasta sheets coated in Bolognese and bechamel topped with mozzarella and Grana Padano,50
+food,Pasta and Risotto,Homemade Spaghetti Bolognese,Spaghetti in classic beef Bolognese sauce a traditional Italian favourite,47
+food,Pasta and Risotto,Spaghetti Alla Carbonara,Pasta with crispy bacon cooking cream egg yolks and Parmesan cheese served with garlic bread,52
+food,Pasta and Risotto,Tuscan Chicken Pasta,Penne pasta in creamy spinach sauce with chicken strips and sun-dried tomatoes topped with Grana Padano,50
+food,Pasta and Risotto,Creamy Tomato Risotto With Meatballs,Italian rice in creamy tomato sauce with beef meatballs topped with Parmesan,53
+food,Pasta and Risotto,Linguine Chicken-Bacon Alfredo,Classic Italian pasta in creamy garlic sauce with chicken breast chunks topped with bacon and Grana Padano,51
+food,Pasta and Risotto,Risotto Ai Fruitti Di Mare,Risotto rice tossed with shrimp and calamari a seafood Italian classic,53
+food,Pasta and Risotto,Risotto In Fresh Ugandan Vegetables,Traditional Italian rice tossed with steamed vegetables a vegetarian risotto,49
+food,Pasta and Risotto,Penne Arrabbiata,Penne in spicy tomato sauce topped with basil and Parmesan a vegetarian pasta,45
+food,Pasta and Risotto,Lasagne Alla Verdure,Pasta layered with Ugandan vegetables bechamel Parmesan and baked a vegetarian lasagne,46
+food,Pasta and Risotto,Hickory Steak Pasta,Tomato and basil linguine topped with beef fillet steak and Grana Padano,50
+food,Pasta and Risotto,Chicken and Coconut Tomato Pasta,Penne pasta with grilled chicken breast strips coconut cream and tomato sauce,50
+food,Mains,Ugandan Organic Pork Chops,Grilled pork chops on creamy sukuma-wiki served with mushroom sauce and fried plantain a local Ugandan dish,54
+food,Mains,Pork Ribs,Spiced pork ribs baked until golden-brown served with choice of barbeque pesto or mushroom sauce and fried plantain,57
+food,Mains,Baked Nile Perch Fillet,Lake Victoria Nile perch marinated and baked on creamy spinach served with mushroom sauce and mashed potatoes,49
+food,Mains,Tuscan Smothered Pork Chops,Juicy pork chops in homemade creamy Tuscan sauce served with fried plantain,56
+food,Mains,Hickory Special Grilled Chicken Breast Stuffed With Spinach,Marinated chicken breast wrapped in bacon stuffed with spinach and mozzarella with mushroom sauce steamed vegetables and rice,50
+food,Mains,Tilapia Florentine,Grilled tilapia fillet on creamy spinach with choice of tomato-cashew nut mushroom tomato-basil or coconut sauce with rice,53
+food,Mains,Grilled Half In-Bone Chicken,Rosemary oregano and honey-marinated chicken served with mushroom sauce handpicked vegetables and crispy chips,52
+food,Mains,Grilled Chicken Breast,Skinless chicken breast with choice of Puttanesca mushroom peanut coconut or Cioppino sauce with vegetable rice,50
+food,Mains,Creamy Chicken Cordon Bleu,Breaded chicken breast stuffed with ham and cheese topped with Dijon sauce served with lyonnaise potatoes,52
+food,Mains,Hickory Carnival Platter,Mixed grill of quarter chicken mini beef fillet steak chicken skewers and pork skewers with mushroom sauce and potato wedges,62
+food,Mains,Fillet Of Salmon,Grilled Norwegian salmon fillet with steamed vegetables and tomato-cashew nut sauce served with vegetable rice,75
+food,Mains,Jumbo Prawns,Grilled jumbo prawns marinated with garlic butter and lemon served with garden salad tartar sauce and crispy chips,72
+food,Mains,Pan-Seared Tilapia On A Bed Of Pasta,Grilled tilapia fillet on linguine pasta in pesto sauce served with steamed vegetables,54
+food,Mains,Chilli-Lime Steak Fajita,Beef fillet marinated with Moroccan spices in chilli-lime sauce served with avocado slices and mashed potatoes,56
+food,Mains,Creamy Tuscan Salmon Fillet,Pan-seared Norwegian salmon fillet in homemade creamy Tuscan sauce served with risotto rice,79
+food,Mains,Zippy Breaded Pork Chops,Boneless pork chops coated in breadcrumbs and deep-fried served with mushroom sauce and masala chips,56
+food,Mains,Bacon-Wrapped Tilapia,Lake Victoria tilapia fillet wrapped in bacon and grilled served with white wine-caper sauce and mashed potatoes,55
+food,Desserts,Organic Fruit Salad With Ice Cream,Fresh organic fruit salad served with scoops of ice cream a light and refreshing dessert,18
+food,Desserts,Tiramisu,Classic Italian coffee-flavoured dessert made with layers of mascarpone and espresso-soaked ladyfingers,30
+food,Desserts,Cake of The Day Slice,Daily selection of freshly baked cake ask your server for todays special flavour,22
+food,Desserts,Creme Brulee,Classic French custard dessert with a caramelised sugar crust,25
+food,Desserts,New York Cheesecake,Rich and creamy New York style cheesecake a classic American dessert,30
+food,Desserts,Chocolate Fondant,Warm chocolate cake with a molten chocolate center a rich indulgent dessert,29
+food,Desserts,Apple Crumble Tart,Baked apple tart with a buttery crumble topping served warm,30
+food,Desserts,Scoops of Ice Cream,Two scoops of premium ice cream in your choice of flavour,15
+food,Desserts,Nutty Caramel and Chocolate Sundae,Ice cream sundae with caramel nuts and chocolate sauce,22
+food,Sauces,Tuscan sauce,Tuscan sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,mushroom sauce,mushroom sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,peppercorn sauce,peppercorn sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,pesto sauce,pesto sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,arrabbiata sauce,arrabbiata sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,peanut sauce,peanut sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,coconut sauce,coconut sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,barbeque sauce,barbeque sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,Dijon sauce,Dijon sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,Puttanesca sauce,Puttanesca sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,tartar sauce,tartar sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,bearnaise sauce,bearnaise sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,gorgonzola sauce,gorgonzola sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,tomato-basil sauce,tomato-basil sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,white wine-caper sauce,white wine-caper sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,Cioppino sauce,Cioppino sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,tomato-cashew nut sauce,tomato-cashew nut sauce available as an accompaniment to main dishes and steaks,10
+food,Sauces,chilli-lime sauce,chilli-lime sauce available as an accompaniment to main dishes and steaks,10
+food,Sides,Steamed vegetables,Steamed vegetables served as a side dish accompaniment to main courses,12
+food,Sides,garden-fresh salad,garden-fresh salad served as a side dish accompaniment to main courses,12
+food,Sides,crispy chips,crispy chips served as a side dish accompaniment to main courses,12
+food,Sides,steamed rice,steamed rice served as a side dish accompaniment to main courses,12
+food,Sides,vegetable rice,vegetable rice served as a side dish accompaniment to main courses,12
+food,Sides,mashed potatoes,mashed potatoes served as a side dish accompaniment to main courses,12
+food,Sides,potato wedges,potato wedges served as a side dish accompaniment to main courses,12
+food,Sides,parsley potatoes,parsley potatoes served as a side dish accompaniment to main courses,12
+food,Sides,avocado,avocado served as a side dish accompaniment to main courses,12
+food,Sides,lyonnaise potatoes,lyonnaise potatoes served as a side dish accompaniment to main courses,12
+food,Sides,masala chips,masala chips served as a side dish accompaniment to main courses,12
+food,Sides,fried plantain,fried plantain served as a side dish accompaniment to main courses,12
+food,Sides,creamy spinach,creamy spinach served as a side dish accompaniment to main courses,12
+drinks,Coffees,Espresso Single,Single shot of espresso a classic Italian coffee,7
+drinks,Coffees,Espresso Double,Double shot of espresso for a stronger coffee experience,10
+drinks,Coffees,Cappuccino Single,Single shot cappuccino with steamed milk and foam,9
+drinks,Coffees,Cappuccino Double,Double shot cappuccino with steamed milk and foam,12
+drinks,Coffees,Mocha Latte,Espresso with chocolate and steamed milk a sweet coffee drink,12
+drinks,Coffees,Macchiato,Espresso marked with a dollop of foamed milk,8
+drinks,Coffees,Cafe Latte,Espresso with steamed milk smooth and creamy coffee,9
+drinks,Coffees,Americano Single,Single espresso diluted with hot water a classic black coffee,8
+drinks,Coffees,Americano Double,Double espresso diluted with hot water for a stronger black coffee,12
+drinks,Coffees,Hot Chocolate,Rich creamy hot chocolate drink,12
+drinks,Coffees,African Coffee,Traditional African-style brewed coffee with local spices,12
+drinks,Teas,Black Tea Plain,Simple plain black tea served hot,8
+drinks,Teas,Chai Latte,Spiced tea with steamed milk an aromatic warm drink,12
+drinks,Teas,Black Tea Spiced,Black tea infused with traditional spices,8
+drinks,Teas,African Tea Spiced,African-style spiced tea with local herbs and spices,9
+drinks,Teas,Dawa Tea,Kenyan honey and lemon tea known for soothing and healing properties,14
+drinks,Teas,Herbal Tea,Caffeine-free herbal infusion tea,12
+drinks,Beers and Ciders,Local Beer,Ugandan locally brewed beer,8
+drinks,Beers and Ciders,Local Cider,Ugandan locally produced cider,8
+drinks,Beers and Ciders,Imported Cider,Premium imported cider,12
+drinks,Beers and Ciders,Imported Beer,Premium imported beer,12
+drinks,Cold Beverages,Fresh Juice,Freshly squeezed fruit juice,12
+drinks,Cold Beverages,Soda,Soft drink carbonated beverage,4
+drinks,Cold Beverages,Diet Coke,Sugar-free diet cola,5
+drinks,Cold Beverages,Still Water,Still mineral water,4
+drinks,Cold Beverages,Red Bull,Energy drink,12
+drinks,Cold Beverages,Iced Coffee,Chilled coffee drink served over ice,15
+drinks,Cold Beverages,Ice Tea,Chilled tea drink refreshing and light,10
+drinks,Cold Beverages,Milkshake,Creamy blended milkshake in various flavours,18
+drinks,Cold Beverages,Smoothie,Fresh fruit smoothie blended with ice,22
+drinks,Cold Beverages,Sparkling Water,Carbonated sparkling mineral water,6
+drinks,Cocktails,Appletini,Sweet refreshing martini drink in green apple flavour,24
+drinks,Cocktails,Cosmopolitan,Equal part of vodka and triple sec plus fresh cranberry juice a classic cocktail,24
+drinks,Cocktails,Dry Martini,Traditional aperitif cocktail best enjoyed before meals elegant and strong,24
+drinks,Cocktails,Hickopolitan,Cosmopolitan variant with a minty twist a Hickory signature cocktail,24
+drinks,Cocktails,Classic Margarita,Mexican tequila thirst-quencher with triple sec and freshly squeezed lime juice,26
+drinks,Cocktails,Old Fashioned,Mix of sweet Merlot and Bourbon whiskey a timeless classic cocktail,35
+drinks,Cocktails,Absolut Paradise,Raspberry-based cocktail infused with fresh berries fruity and refreshing,24
+drinks,Cocktails,Rose and Basil,Gin-based cocktail with hints of rosemary and basil herbal and aromatic,24
+drinks,Cocktails,Lady in Red,London gin with strawberry and grapes finishing a fruity gin cocktail,24
+drinks,Cocktails,Red Sangria,Iced punch with fruit infusion and red wine a Spanish classic,25
+drinks,Cocktails,White Sangria,Iced punch with fruit infusion and white wine refreshing,25
+drinks,Cocktails,Whiskey Sour,Sweet and sour cocktail with pineapple texture made with whiskey,28
+drinks,Cocktails,Cookie Monster,Baileys Irish cream freakshake with cookies and chocolate an indulgent dessert cocktail,23
+drinks,Cocktails,Mojito,Cuban classic with rum mint sugar and lime juice refreshing and minty,22
+drinks,Cocktails,Long Island Iced Tea,Multiple spirits mixed into a potent cocktail that looks like iced tea,30
+drinks,Cocktails,Frosty Deep Pool,Five different spirits and red bull a strong and energizing cocktail,32
+drinks,Cocktails,Bulago Island Breeze,Fruity punch with Uganda waragi pineapple a locally inspired tropical cocktail,25
+drinks,Cocktails,Watermelon Smash,Vodka with whisky liqueur and fresh watermelon juice refreshing and fruity,24
+drinks,Cocktails,Mai Tai,Quality rum infused in tropical fruit juice a Polynesian classic cocktail,24
+drinks,Cocktails,Queen Slayer,Amarula chocolate sauce and spiced rum a sweet and creamy cocktail,24
+drinks,Cocktails,Jumping Jack,Jack Daniels honey whiskey with ginger ale a smooth whiskey cocktail,24
+drinks,Cocktails,Genie in a Goblet,Gin and tonic with mint liqueur and fresh mint a refreshing gin cocktail,24
+drinks,Cocktails,Sexy Back,Passion and berries-infused beauty made with vodka fruity and vibrant,24
+drinks,Cocktails,Cherry Kisses,Vodka-based raspberry cocktail sweet and berry-flavoured,26
+drinks,Cocktails,Negroni,Campari sweet vermouth and gin a classic Italian bitter cocktail,25
+drinks,Cocktails,Bay Breeze,Uganda waragi coconut with Smirnoff vodka a tropical cocktail,24
+drinks,Cocktails,Amber Shades of Hickory,Fruit and booze combination a signature Hickory cocktail,24
+drinks,Cocktails,Purple Dove,Vodka blue curacao cointreau and strawberries a colourful cocktail,24
+drinks,Cocktails Pitcher,Hickory Ocean Breeze,Coconut rum blue curacao liqueur and lemonade served in a pitcher for sharing,70
+drinks,Cocktails Pitcher,Strawberry Basil Fizz,Strawberries basil and lemonade served in a pitcher for groups,70
+drinks,Cocktails Pitcher,Sangria Pitcher,Iced punch with fruit infusion and wine served in a pitcher,70
+drinks,Cocktails Pitcher,Hickory Checkmate,Melon-flavoured with vodka rose wine and fresh fruits served in a pitcher,70
+drinks,Softails Non-Alcoholic,Sweet Sun Rise,Tropical punch non-alcoholic refreshing fruit beverage,18
+drinks,Softails Non-Alcoholic,Virgin Colada,Coconut refresher with pineapple juice a non-alcoholic pina colada,20
+drinks,Softails Non-Alcoholic,Virgin Mojito,Non-alcoholic mojito with mint lime and soda refreshing and light,20
+drinks,Softails Non-Alcoholic,Tropical Fruit Crash,Baristas choice tropical fruits blended with ice a refreshing non-alcoholic smoothie,18
+drinks,Softails Non-Alcoholic,Minty Pineapple,Fresh pineapple juice and mint leaves a simple refreshing drink,15
+drinks,Softails Non-Alcoholic,Green Detox,Avocado bananas mangoes celery and spinach smoothie a healthy non-alcoholic option,20
+drinks,Shooters,B52,Layered shooter cocktail with coffee liqueur Irish cream and Grand Marnier,10
+drinks,Shooters,Blow Job,Sweet layered shooter with Irish cream and whipped cream,12
+drinks,Shooters,Slippery Nipple,Smooth shooter with sambuca and Irish cream,10
+drinks,Shooters,Jagerbomb,Jagermeister dropped into Red Bull an energizing shooter,15
+wines,White Wines,Rooiberg Winery Chardonnay,Vibrant and elegant South African white wine with French oak leaves revealing pear-drop aromas,90
+wines,White Wines,Herxheim Am Berg Sauvignon Blanc Trocken,German dry Sauvignon Blanc white wine crisp and refreshing,135
+wines,White Wines,Hill and Dale Sauvignon Blanc,South African Sauvignon Blanc with fresh citrus and tropical notes,105
+wines,White Wines,KWV Classic Collection Sauvignon Blanc,South African classic Sauvignon Blanc crisp and aromatic,90
+wines,White Wines,Zonin Pinot Grigio Friuli Aquileia,Italian Pinot Grigio from Friuli light and refreshing white wine,105
+wines,White Wines,Calvet Varietals Sauvignon Blanc,French Sauvignon Blanc with delicate floral and citrus notes,100
+wines,White Wines,Nederburg Chardonnay,South African Chardonnay full-bodied and buttery,105
+wines,White Wines,Zonin 20 Ventiterre Moscato,Italian Moscato sweet and aromatic sparkling white wine,120
+wines,White Wines,Jacobs Creek Classic Chardonnay,Australian Chardonnay with ripe fruit and oak flavours,110
+wines,White Wines,Landskroon Chardonnay,Premium South African Chardonnay complex and elegant,160
+wines,White Wines,Simonsig Sunbird Sauvignon Blanc,South African Sauvignon Blanc with tropical fruit and citrus flavours,120
+wines,Red Wines,Alvis Drift Merlot,South African Merlot smooth and medium-bodied red wine,130
+wines,Red Wines,Eikendal Cabernet Sauvignon,Premium South African Cabernet Sauvignon full-bodied and rich,370
+wines,Red Wines,Rooiberg Winery Cabernet Sauvignon,South African Cabernet Sauvignon with dark fruit and oak notes,90
+wines,Red Wines,KWV Classic Collection Shiraz,South African Shiraz bold and spicy red wine,100
+wines,Red Wines,Castello Di Albola Chianti Classico,Italian Chianti Classico from Tuscany a classic Italian red wine,210
+wines,Red Wines,Zonin 20 Ventiterre Chianti,Italian Chianti medium-bodied with cherry and herb notes,110
+wines,Red Wines,Caro Aruma Malbec,Argentinian Malbec by Catena and Rothschild full-bodied and rich,170
+wines,Red Wines,Nederburg Winemaster Pinotage,South African Pinotage a unique grape variety with smoky berry flavours,130
+wines,Red Wines,Jacobs Creek Double Barrel Shiraz,Australian Shiraz aged in whisky barrels for extra depth and complexity,210
+wines,Red Wines,Calvet Varietals Cabernet Sauvignon,French Cabernet Sauvignon with blackcurrant and cedar notes,105
+wines,Red Wines,Kumala Reserve Malbec,South African Malbec rich and fruity red wine,110
+wines,Red Wines,Penfolds Koonunga Hill Cabernet Sauvignon,Australian Cabernet Sauvignon from the renowned Penfolds winery,200
+wines,Sparkling Wines,Zonin Prosecco Cuvee 1821,Italian Prosecco sparkling wine light and celebratory,140
+wines,Sparkling Wines,JP Chenet Blanc De Blancs Brut,French sparkling brut wine crisp and refreshing bubbles,110
+wines,Sparkling Wines,Luc Belaire Luxe,Premium French sparkling wine luxurious and elegant,250
+wines,Champagne,Moet and Chandon Imperial Brut,Premium French Champagne house classic Brut elegant and prestigious,480
+wines,Champagne,Veuve Clicquot Brut,Iconic French Champagne known for its consistent quality and golden colour,580
+wines,Champagne,Dom Perignon Brut,Prestigious vintage French Champagne the ultimate luxury celebration wine,1500
+wines,Rose Wines,KWV Classic Collection Rose,South African Rose wine light and fruity pink wine,90
+wines,Rose Wines,Nederburg Rose,South African Rose fresh and berry-flavoured,90
+wines,Rose Wines,Exhib Cap Dagde Rose,French Rose wine from southern France dry and refreshing,90
+cake,Cakes,Carrot Cake,Classic carrot cake with cream cheese frosting moist and spiced,120
+cake,Cakes,Chocolate Cake,Rich chocolate cake with chocolate frosting a classic indulgent dessert,120
+cake,Cakes,Coconut Cake,Moist coconut cake with coconut cream frosting tropical and sweet,120
+cake,Cakes,Fruit Cake,Traditional fruit cake packed with dried fruits and nuts,140
+cake,Cakes,Lemon Cake,Zesty lemon cake with lemon glaze refreshing citrus flavour,120
+cake,Cakes,Strawberry Cake,Fresh strawberry cake with strawberry cream frosting light and fruity,120
+cake,Cakes,Vanilla Cake,Classic vanilla sponge cake with vanilla buttercream frosting,120
+cake,Cakes,Vanilla Cheesecake,Rich and creamy vanilla cheesecake with a biscuit base,160
+cake,Cakes,Black Forest Cake,German chocolate and cherry cake with whipped cream layers,120
+cake,Cakes,White Forest Cake,White chocolate and cherry cake with whipped cream a lighter version of Black Forest,120
+cake,Cakes,Chocolate Fudge Cake,Dense and rich chocolate fudge cake with thick chocolate fudge frosting,140
+cake,Cakes,Red Velvet Cake,Classic red velvet cake with cream cheese frosting moist and vibrant,120
+cake,Cakes,White Chocolate Cake,Delicate white chocolate cake with white chocolate frosting elegant and sweet,120
+reviews,customer_review_positive,,One of the best steaks I have ever had in Kampala and the fudgy dessert tasted fantastic definitely coming back,
+reviews,customer_review_positive,,Great food excellent customer service and the environment is really romantic and breath taking,
+reviews,customer_review_positive,,All the food was amazing and it tasted great the ambiance is perfect for a date night,
+reviews,customer_review_positive,,Exceptional ambiance cleanliness and spacious layout the restaurant is incredibly inviting and well-maintained,
+reviews,customer_review_positive,,Really charming restaurant and bar with swift polite and comfortable service,
+reviews,customer_review_positive,,The staff are exceptional and extremely accommodating they made our dining experience memorable,
+reviews,customer_review_positive,,Good selection of wines from South Africa Italy and France paired perfectly with the food,
+reviews,customer_review_positive,,The cocktail menu is impressive with unique signature drinks like the Hickopolitan and Bulago Island Breeze,
+reviews,customer_review_positive,,Perfect spot for family dinner and birthday celebrations the event hosting is wonderful,
+reviews,customer_review_positive,,The garden setting is beautiful especially at night with great lighting and ambiance,
+reviews,customer_review_negative,,The menu selection was extremely limited and not suitable for vegetarians very disappointed,
+reviews,customer_review_negative,,Disappointed with the small amounts of food served for the price not good value,
+reviews,customer_review_negative,,Very bad service lunch was delayed for an hour and a half unacceptable waiting time,
+reviews,customer_review_negative,,Inconsistent service and parking challenges made the visit frustrating,
+reviews,customer_review_positive,,The Hickory has become one of the top restaurants in Kampala their fusion cuisine is exceptional,
+reviews,customer_review_positive,,Loved the Thai coconut curry and the grilled salmon both were perfectly cooked and seasoned,
+reviews,customer_review_positive,,The wine list is extensive and well-curated with options from multiple countries and price ranges,
+reviews,customer_review_positive,,Great value for money compared to other upscale restaurants in Kampala,
+reviews,customer_review_positive,,The tiramisu and chocolate fondant are must-try desserts absolutely delicious,
+reviews,customer_review_positive,,Beautiful interior design with a woody theme that creates a warm and cozy atmosphere,
+reviews,customer_review_neutral,,Good food but the restaurant can get quite loud during peak hours on weekends,
+reviews,customer_review_neutral,,The portions are decent but could be larger for the price point,
+reviews,customer_review_positive,,The Lake Victoria fish burger is one of the best fish burgers in Kampala using fresh tilapia,
+reviews,customer_review_positive,,Love the Hickory Carnival Platter perfect for sharing with a group of friends,
+reviews,customer_review_negative,,Parking is very limited especially on weekends plan to arrive early or use a ride service,
+reviews,customer_review_positive,,The Monthly Chefs Specials keep things interesting always something new to try,
+reviews,customer_review_positive,,The breakfast menu is great and they open early at 8am perfect for morning meetings,
+reviews,customer_review_positive,,The Nile perch fillet is a must-try showcasing the best of Ugandan local fish,
+reviews,customer_review_positive,,Cocktail Oclock is a great experience with well-crafted drinks and a lively atmosphere,
+reviews,customer_review_positive,,The pork ribs are fall-off-the-bone tender and the barbeque sauce is homemade perfection,
+services,services_offered,,The Hickory offers dine-in services with indoor air-conditioned seating and outdoor garden seating,
+services,services_offered,,Reservation services available for individuals groups and special events,
+services,services_offered,,Event hosting and catering services for birthdays corporate events and celebrations,
+services,services_offered,,Takeaway and food packaging services available for all menu items,
+services,services_offered,,Free Wi-Fi available for all dining guests,
+services,services_offered,,Disabled access and wheelchair-friendly facilities provided,
+services,services_offered,,Full bar service with licensed premises for alcoholic beverages,
+services,services_offered,,Cake ordering service with custom sizes available in 1kg 1.5kg and 2kg options,
+services,services_offered,,Monthly Chef Specials featuring rotating seasonal dishes and new creations,
+services,services_offered,,Cocktail Oclock signature experience with handcrafted cocktails and lounge atmosphere,
+services,services_offered,,Open daily from 8am to 11pm seven days a week including public holidays,
+services,services_offered,,Located in the upscale Kololo neighbourhood of Kampala near major hotels and embassies,
+services,services_offered,,The restaurant is designed by Fortitude Solutions with a contemporary woody theme interior,
