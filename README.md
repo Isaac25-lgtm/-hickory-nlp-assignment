@@ -42,7 +42,7 @@ This project implements a complete data mining and analytics pipeline — from a
 
 The deployed application accepts any restaurant-related text input and classifies it into the appropriate content category using a trained machine learning model.
 
-**Supported categories:** `food` · `drinks` · `wines` · `cake` · `reviews` · `services` · `about`
+**Supported categories:** `food` · `drinks` · `wines` · `cake` · `reviews` · `services` · `about` · `home`
 
 ---
 
@@ -81,7 +81,7 @@ The deployed application accepts any restaurant-related text input and classifie
 |------|-------------|
 | `Omoding_NLP_Assignment.ipynb` | Complete Jupyter notebook covering all 7 assignment tasks |
 | `scraper.py` | Web scraping script using BeautifulSoup |
-| `Omoding.csv` | Raw scraped dataset (712 records, 7 categories) |
+| `Omoding.csv` | Raw scraped dataset (712 records, 10 content categories) |
 | `Omoding.pkl` | Cleaned and preprocessed dataset (pickle format) |
 | `best_model.joblib` | Best performing model — Logistic Regression (91.5% accuracy) |
 | `logistic_regression.joblib` | Trained Logistic Regression classifier |
@@ -158,7 +158,7 @@ The best-performing model (Logistic Regression) was deployed as an interactive w
 
 ## Results Summary
 
-- **Dataset:** 712 records across 7 content categories
+- **Dataset:** 712 records across 10 content categories
 - **Best model:** Logistic Regression with **91.5% classification accuracy**
 - **Feature space:** 500 TF-IDF features reduced to 50 SVD components
 - **Deployment:** Fully functional Streamlit app accessible at [omoding-hickory-nlp.streamlit.app](https://omoding-hickory-nlp.streamlit.app)
@@ -195,7 +195,7 @@ Key libraries used in this project:
 - `streamlit` — Model deployment
 - `joblib` — Model serialisation
 
-See `requirements.txt` for the complete list with version pins.
+See `requirements.txt` for the complete list.
 
 ---
 
